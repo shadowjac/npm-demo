@@ -1,0 +1,18 @@
+{
+  "name": "prueba_npm",
+  "version": "1.0.0",
+  "description": "Mi primer package",
+  "main": "dependencias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Andres Casas",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}

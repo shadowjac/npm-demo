@@ -1,0 +1,4 @@
+example from file node
+some data
+another data
+bye
